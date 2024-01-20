@@ -41,9 +41,9 @@ def is_night():
 # and it is currently dark
 def check_for_iss():
     if is_near() and is_night():
-        print("Yhello")
+        print("Yhellodrome")
     else:
-        print("NFI")
+        print("NFIdea")
 
 
 # Then email me to tell me to look up.
